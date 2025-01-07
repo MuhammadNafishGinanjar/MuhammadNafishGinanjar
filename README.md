@@ -1,8 +1,8 @@
 ## 🦾 Raden Muhammad Nafish Ginanjar 
 
-**`Frontend Developer / Artist`**
+**`Frontend Developer`**
 
-👋 Hi, I’m a passionate Frontend Developer with a love for crafting beautiful and intuitive web experiences. I also have a growing interest in Backend Development, but my expertise lies in the Frontend. As a Artist, I integrate creativity from the art world into my digital projects, making each interface both functional and visually appealing.
+👋 Hi, I’m a passionate Frontend Developer with a love for crafting beautiful and intuitive web experiences. I also have a growing interest in Backend Development, but my expertise lies in the Frontend.
 
 ---
 
