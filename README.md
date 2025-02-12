@@ -1,4 +1,4 @@
-## 🦾 Raden Muhammad Nafish Ginanjar 
+## Raden Muhammad Nafish Ginanjar 
 
 **`Second-year Student`**
 
