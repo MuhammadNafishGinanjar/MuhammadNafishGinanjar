@@ -4,7 +4,7 @@
 
 👋 Hi there! I am a second-year student who is currently learning and developing my skills in programming.
 
-
+---
 
 <!--### 🧰 Current Stack
 
@@ -22,7 +22,7 @@
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <br />
 -->
-#
+
 
 ### 📊 Stats
 
