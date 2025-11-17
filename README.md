@@ -1,5 +1,6 @@
 ## Raden Muhammad Nafish Ginanjar 
 
+<!--
 **`Third-year Student`**
 
 👋 Hi there! I am a third-year student who is currently learning and developing my skills in programming.
@@ -7,7 +8,7 @@
 ---
 
 
-<!--
+
 **MuhammadNafishGinanjar/MuhammadNafishGinanjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
